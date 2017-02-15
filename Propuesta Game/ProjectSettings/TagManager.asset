@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pick Up
+  - Mole
   layers:
   - Default
   - TransparentFX
